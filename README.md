@@ -6,7 +6,8 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/DedZorgana/Roblox-uni
 ```
 📖 Description:
 
-📢 Open Source – This script is completely open source. Modifications, improvements, and customization are fully welcome! Distributed under GNU General Public License (GPL).
+📢 Open Source – This script is completely open source. Modifications, improvements, and customization are fully welcome!
+Distributed under GNU General Public License (GPL).
 
 🎯 How it works
 The aimbot only locks onto targets if there are no obstacles between you and the enemy.
