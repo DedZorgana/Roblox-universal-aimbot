@@ -1,10 +1,9 @@
 # Roblox-universal-aimbot
 ```
-🚀 Injection
-lua
 loadstring(game:HttpGet("https://raw.githubusercontent.com/DedZorgana/Roblox-universal-aimbot/refs/heads/main/aimbot.lua"))()
 ```
 
+```
 📖 Description
 Universal AimBot for Roblox – автоматическое прицеливание с графическим интерфейсом.
 
