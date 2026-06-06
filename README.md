@@ -4,8 +4,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/DedZorgana/Roblox-uni
 ```
 
 ```
-📖 Description
-Universal AimBot for Roblox – автоматическое прицеливание с графическим интерфейсом.
+📖 Description:
 
 📢 Open Source – This script is completely open source. Modifications, improvements, and customization are fully welcome! Distributed under GNU General Public License (GPL).
 
