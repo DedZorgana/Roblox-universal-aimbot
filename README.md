@@ -15,7 +15,7 @@ The aimbot only locks onto targets if there are no obstacles between you and the
 ✅ You can toggle WallCheck OFF via the GUI if you want to aim through walls
 ```
 
-```
+```lua
 local Players = game:GetService("Players")
 local RunService = game:GetService("RunService")
 local UserInputService = game:GetService("UserInputService")
